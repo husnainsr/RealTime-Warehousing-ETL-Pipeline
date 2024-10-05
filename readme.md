@@ -1,4 +1,4 @@
-﻿# Data Warehousing ETL
+﻿# Near Real Time Data Warehousing ETL
 
 This project focuses on developing a near-real-time data warehouse for Electronica. It involves the implementation of the HYBRIDJOIN algorithm and a multi-threaded approach for efficient data processing.
 
